@@ -1,0 +1,11 @@
+{
+  "app_name": "My App",
+  "welcome_message": "Welcome",
+  "login_button": "Log In",
+  "register_button": "Register",
+  "email_placeholder": "Email address",
+  "password_placeholder": "Password",
+  "generic_error": "Something went wrong. Please try again.",
+  "no_internet_connection": "No internet connection.",
+  "slow_internet": "Connection is slow. Please wait."
+}
