@@ -1,4 +1,4 @@
-package com.project01
+package com.syncspace
 
 import android.app.Application
 import com.facebook.react.PackageList
